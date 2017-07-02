@@ -1,3 +1,4 @@
+[![GoDoc](https://godoc.org/github.com/DronRathore/go-ragel-ua/src/ua?status.svg)](https://godoc.org/github.com/DronRathore/go-ragel-ua/src/ua)
 ## Ragel state machine based User Agent detection for golang
 Faster than go regular expressions
 
