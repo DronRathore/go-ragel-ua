@@ -2,7 +2,7 @@
   To check whether a given user agent is a mobile agent and if than which one
 */
 package ua
-
+// Returns a bool flag whether the agent is mobile agent and also returns the platform name
 func IsMobile(agent string) (bool, string) {
   var bytes []byte = make([]byte, len(agent))
   copy(bytes[:], agent)
